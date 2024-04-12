@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todonow/static/css/main.354ebc5f.css",
+    "main.js": "/todonow/static/js/main.f84c4cb3.js",
+    "static/js/453.fdf9d75f.chunk.js": "/todonow/static/js/453.fdf9d75f.chunk.js",
+    "index.html": "/todonow/index.html",
+    "main.354ebc5f.css.map": "/todonow/static/css/main.354ebc5f.css.map",
+    "main.f84c4cb3.js.map": "/todonow/static/js/main.f84c4cb3.js.map",
+    "453.fdf9d75f.chunk.js.map": "/todonow/static/js/453.fdf9d75f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.354ebc5f.css",
+    "static/js/main.f84c4cb3.js"
+  ]
+}
